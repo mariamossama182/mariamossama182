@@ -17,11 +17,11 @@
 
 ---
 ### 🏆 Competition Experience
-- 🤖 Participating in a technical competition involving a **robotic arm system**
-- 💻 Using **C++ and WebAssembly** to write backend logic and functions
-- 🌐 Developing functions that integrate with a **web-based interface**
-- 🦾 Responsible for **Robot Kinematics** (controlling arm movement)
-- 🔗 Working on the connection between software logic and hardware behavior
+- 🤖 Participated in a robotics competition involving a 3D robotic arm
+- 💻 Wrote core control logic in C++, compiled to WebAssembly for browser execution
+- 🌐 Integrated low-level robot logic with a web-based visualization and control system
+- 🦾 Implemented Forward Kinematics for robotic arm movement (X, Y, Z axes)
+- 🔗 Connected algorithmic decision-making with robot motion behavior
 
 ### 🛠️ Languages & Tools
 <p align="center">
