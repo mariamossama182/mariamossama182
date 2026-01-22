@@ -1,20 +1,24 @@
-# Hi there, I'm Mariam <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />💻  
+# Hi there, I'm Mariam 👋🌱
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</p>
 
 <p align="center">
   Backend Development Beginner  
   <br>
-  Learning step by step 🚀
+  Strong OOP Fundamentals
 </p>
 
 ---
 
 ### 👩‍🎓 About Me
-- 🌱 I'm **starting my journey in Backend Development**
-- 📘 Learning **Object-Oriented Programming (OOP)**
-- 💻 Currently working with **C++ and Java**
-- 🌐 Exploring the basics of **WebAssembly**
-- 🛠️ Using **Visual Studio** for coding and practice
-- 🎯 Focused on learning fundamentals and writing clean code
+- 🌱 Backend Development **beginner**
+- ✅ Solid understanding of **Object-Oriented Programming (OOP)**
+- 💻 Programming with **C++ and Java**
+- 🌐 Familiar with **WebAssembly basics**
+- 🛠️ Coding mainly on **Visual Studio**
+- 🎯 Focused on learning backend fundamentals step by step
 
 ---
 
@@ -28,12 +32,11 @@
 
 ---
 
-### 📚 What I'm Learning Now
-- Basics of Backend Development
-- Object-Oriented Programming concepts
-- Problem solving with C++
-- Writing structured Java programs
-- How WebAssembly works with native languages
+### 📚 What I’m Currently Learning
+- Backend development fundamentals
+- How servers and APIs work
+- Applying OOP in real backend code
+- Writing clean and maintainable programs
 
 ---
 
@@ -44,75 +47,10 @@
 
 ---
 
-### ✨ Small Goal
-> Learn deeply, build slowly, improve continuously 🌱
+### ✨ Personal Motto
+> Build strong foundations before building big systems 🧱
 
 ---
 
 ### 🤍 Note
-This profile reflects my **learning journey**, and it will grow with time.
-
-<p align="center">
-  🌱 Backend Developer in progress  
-  <br>
-  💡 Interested in Systems, OOP & Web Performance  
-</p>
-
----
-
-### 👩‍💻 About Me
-- 🎯 Backend developer **currently learning and building**
-- 🧠 Strong foundation in **Object-Oriented Programming (OOP)**
-- ⚙️ Working mainly with **C++ & Java**
-- 🌐 Exploring **WebAssembly** and how native code meets the web
-- 🛠️ Comfortable using **Visual Studio**
-- 📚 Always improving problem-solving & clean code skills
-
----
-
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg" width="55"/>
-</p>
-
----
-
-### 🧩 Concepts I Work With
-- ✔ Object-Oriented Programming (OOP)
-- ✔ Data Structures & Algorithms
-- ✔ Backend Logic & System Thinking
-- ✔ Memory & Performance Basics
-- ✔ Native code & Web interaction (WASM)
-
----
-
-### 📌 Current Focus
-- 🚀 Writing clean and efficient backend code
-- 🧪 Building small projects to apply concepts
-- 🔍 Understanding how low-level code impacts performance
-- 📈 Preparing myself for real backend systems
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### ✨ Fun Fact
-> I enjoy understanding **how things work behind the scenes**, not just using them 😉
-
----
-
-### 🤝 Let's Connect
-- 💬 Always open to learning, collaboration & discussion
-- 🌱 This profile grows as I grow 🚀
+This GitHub profile represents my **learning journey** in backend develo
