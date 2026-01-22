@@ -1,10 +1,4 @@
-# Hi there, I'm Mariam 👋🌱
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-</p>
-
-<p align="center">
+# Hi there, I'm Mariam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   Backend Development Beginner  
   <br>
   Strong OOP Fundamentals
@@ -42,7 +36,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamossama182&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
