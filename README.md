@@ -15,6 +15,12 @@
 - 🎯 Focused on learning backend fundamentals step by step
 
 ---
+### 🏆 Competition Experience
+- 🤖 Participating in a technical competition involving a **robotic arm system**
+- 💻 Using **C++ and WebAssembly** to write backend logic and functions
+- 🌐 Developing functions that integrate with a **web-based interface**
+- 🦾 Responsible for **Robot Kinematics** (calculating and controlling arm movement)
+- 🔗 Working on the connection between software logic and hardware behavior
 
 ### 🛠️ Languages & Tools
 <p align="center">
