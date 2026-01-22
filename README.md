@@ -1,8 +1,4 @@
-# Hi there, I'm Mariam 👋💻  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-</p>
+# Hi there, I'm Mariam <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />💻  
 
 <p align="center">
   🌱 Backend Developer in progress  
