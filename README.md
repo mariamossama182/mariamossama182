@@ -19,7 +19,7 @@
 - 🤖 Participating in a technical competition involving a **robotic arm system**
 - 💻 Using **C++ and WebAssembly** to write backend logic and functions
 - 🌐 Developing functions that integrate with a **web-based interface**
-- 🦾 Responsible for **Robot Kinematics** (calculating and controlling arm movement)
+- 🦾 Responsible for **Robot Kinematics** (controlling arm movement)
 - 🔗 Working on the connection between software logic and hardware behavior
 
 ### 🛠️ Languages & Tools
