@@ -1,5 +1,7 @@
 # Hi there, I'm Mariam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  Backend Development Beginner  
+<p align="center">
+  Backend Development Beginner 
+</p>
   <br>
   Strong OOP Fundamentals
 </p>
@@ -40,10 +42,10 @@
 
 ---
 
-### 📊 GitHub Stats
+/*### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mariamossama182&show_icons=true&theme=tokyonight"/>
-</p>
+</p>*/
 
 ---
 
