@@ -17,7 +17,7 @@
 
 ---
 ### 🏆 Competition Experience
-- 🤖 Participated in a robotics competition involving a **3D robotic arm**
+- 🤖 Participated in a competition involving a **3D robotic arm**
 - 💻 Wrote core control logic in **C++**, compiled to **WebAssembly** for browser execution
 - 🌐 Integrated low-level robot logic with a **web-based visualization and control system**
 - 🦾 Implemented **Forward Kinematics** for robotic arm movement across **X, Y, and Z axes**
