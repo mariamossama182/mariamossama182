@@ -23,6 +23,14 @@
 - 🦾 Implemented **Forward Kinematics** for robotic arm movement across **X, Y, and Z axes**
 - 🔗 Connected algorithmic decision-making with **robot motion behavior**
 
+---
+### 💻 C++ Developer Focus
+- Using **C++** to build core logic and algorithms
+- Applying C++ in **robot control and kinematics calculations**
+- Writing performance-oriented code compiled to **WebAssembly**
+- Using C++ to bridge low-level computation with web-based systems
+
+---
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
