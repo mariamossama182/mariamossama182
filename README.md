@@ -13,11 +13,12 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 ---
 
-### ⚙️ Project Experience
-- Developed core **robotics simulation logic** using C++
-- Implemented **Forward and Inverse Kinematics** for a 3D robotic arm
-- Built accurate joint and position calculations across X, Y, and Z axes
-- Compiled performance-critical logic to **WebAssembly** for browser execution
+⚙️ Project Experienc
+ (as part of Team Stactonix AI)
+- Contributed to core robotics simulation logic using C++
+- Implemented Forward & Inverse Kinematics calculations for 3D robotic arms
+- Calculated precise joint positions and motion logic across X, Y, Z axes
+- Compiled performance-critical modules to WebAssembly for browser execution
 - Contributed to a cross-platform simulation environment usable on desktop and mobile
 
 ---
@@ -27,14 +28,8 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 - 💻 Contributed to C++-based kinematics and real-time simulation components
 
 ---
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="60"/>
-</p>
+🛠️ Skills & Tools
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="60"/> </p>
 
 ---
 
