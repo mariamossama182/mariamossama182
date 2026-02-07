@@ -1,7 +1,7 @@
 # Hi there, I'm Mariam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 <p align="center">  
-Software Developer | **C++ & WebAssembly for Robotics Simulation** 
+Software Developer | C++ & WebAssembly for Robotics Simulation 
 <br> Java Backend Development Beginner  
 </p>
 
