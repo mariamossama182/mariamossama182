@@ -17,19 +17,19 @@
 - 🚀 Currently expanding skills in **Backend Development (Java)**
 
 ---
-### 🏆 Competition Experience
-- 🤖 Participated in a competition involving a **3D robotic arm**
-- 💻 Wrote core control logic in **C++**, compiled to **WebAssembly** for browser execution
-- 🌐 Integrated low-level robot logic with a **web-based visualization and control system**
-- 🦾 Implemented **Forward Kinematics** for robotic arm movement across **X, Y, and Z axes**
-- 🔗 Connected algorithmic decision-making with **robot motion behavior**
+
+### ⚙️ Project Experience
+- Developed core **robotics simulation logic** using C++
+- Implemented **Forward and Inverse Kinematics** for a 3D robotic arm
+- Built accurate joint and position calculations across X, Y, and Z axes
+- Compiled performance-critical logic to **WebAssembly** for browser execution
+- Contributed to a cross-platform simulation environment usable on desktop and mobile
 
 ---
-### 💻 C++ Developer Focus
-- Using **C++** to build core logic and algorithms
-- Applying C++ in **robot control and kinematics calculations**
-- Writing performance-oriented code compiled to **WebAssembly**
-- Using C++ to bridge low-level computation with web-based systems
+### 🏆 Competition Experience
+- 🤖 Participated in the university track of the IEEE CASS Competition as part of **Team Stactonix AI**
+- 🦾 Worked on robotics simulation and control logic 
+- 💻 Contributed to C++-based kinematics and real-time simulation components
 
 ---
 ### 🛠️ Languages & Tools
