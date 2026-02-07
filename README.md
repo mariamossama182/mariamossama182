@@ -7,13 +7,14 @@
 
 ---
 
-### 👩‍🎓 About Me
-- 🌱 Backend Development **beginner**
-- ✅ Solid understanding of **Object-Oriented Programming (OOP)**
-- 💻 Programming with **C++ and Java**
-- 🌐 Familiar with **WebAssembly basics**
-- 🛠️ Coding mainly on **Visual Studio**
-- 🎯 Focused on learning backend fundamentals step by step
+### 👩‍💻 About Me
+
+- 💻 Software Developer working with **C++** and **Java**
+- 🧠 Strong foundation in **Object-Oriented Programming (OOP)**
+- 🤖 Experience in **Robotics Simulation** and motion logic
+- 🌐 Using **WebAssembly** to run high-performance C++ code on the web
+- 🛠️ Developing mainly with **Visual Studio**
+- 🚀 Currently expanding skills in **Backend Development (Java)**
 
 ---
 ### 🏆 Competition Experience
