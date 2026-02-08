@@ -51,8 +51,8 @@ Software Developer | C++ & WebAssembly for Robotics Simulation
 ---
 
 ### 📚 What I’m Currently Learning
-* Backend development fundamentals
 * Web development fundamentals
+* Backend development fundamentals
 * How **servers and APIs** work
 * Applying **OOP principles** in real backend code
 * Writing **clean, maintainable, and scalable programs**
