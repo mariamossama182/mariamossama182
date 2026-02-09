@@ -66,13 +66,6 @@
 
 ---
 
-### 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" width="60%" />
-</p>
-
----
-
 ### 💬 Contact & Socials
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
