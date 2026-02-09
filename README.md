@@ -59,7 +59,7 @@
 
 ### 📚 What I’m Currently Learning
 
-- 🌐 **Web Development:** Completed **HTML5** foundations; currently mastering advanced **CSS3** (Flexbox/Grid) and diving into **JavaScript** for dynamic behavior.
+- 🌐 **Web Development:** Completed **HTML5** foundations; currently mastering advanced **CSS3** and diving into **JavaScript** for dynamic behavior.
 - ⚙️ **Java Backend:** Continuing the journey in server-side logic, APIs, and applying **OOP** principles in real-world programs.
 - 🏗️ **Clean Code:** Focusing on writing maintainable, scalable code and mastering **Visual Studio** workflows.
 - 📈 **Scalability:** Writing maintainable and scalable programs.
