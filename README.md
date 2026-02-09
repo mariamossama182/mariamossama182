@@ -7,7 +7,7 @@ Software Developer | C++ & WebAssembly for Robotics Simulation
 
 ---
 
-### 👩‍💻 About Me
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 * 💻 Software Developer with experience in **C++** and **Java**
 * 🧠 Strong foundation in **Object-Oriented Programming (OOP)**
