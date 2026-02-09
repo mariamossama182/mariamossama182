@@ -1,18 +1,18 @@
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api
-    ?type=rect
-    &color=0:0f2027,50:203a43,100:2c5364
-    &height=220
+    ?type=rounded
+    &color=gradient
+    &height=230
     &section=header
-    &text=Mariam%20|%20Web%20Developer
-    &fontSize=55
+    &text=Mariam.dev
+    &fontSize=70
     &fontColor=ffffff
-    &animation=fadeIn
-    &fontAlignY=40
-    &desc=Building%20Interactive%20Web%20Experiences
-    &descAlignY=65
-    &descSize=18" 
+    &animation=twinkling
+    &fontAlignY=38
+    &desc=Web%20Development%20|%20UI%20|%20Logic
+    &descAlignY=62
+    &descSize=20" 
   />
 </p>
 
