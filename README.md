@@ -2,44 +2,60 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### 💻 Software Developer | Robotics Simulation Enthusiast
-Experience in building performance-critical modules and motion logic, currently expanding into the world of **Java Backend Development**.
+### 💻 Software Developer | Robotics Simulation & Backend Learner
+I specialize in high-performance computing using **C++** and **WebAssembly**, with a focus on robotics motion logic. Currently bridging the gap between low-level performance and **Java Backend Systems**.
 
 ---
 
-### 🚀 About Me
-- 🧠 **Focus:** Strong foundation in **OOP** & Mathematics for Robotics.
-- 🤖 **Expertise:** Implemented Forward/Inverse Kinematics for 3D robotic arms.
-- 🌐 **WebAssembly:** Compiled C++ modules for high-performance browser execution.
-- 🌱 **Learning:** Diving deep into **Spring Boot**, APIs, and Scalable Systems.
+### 🧠 Expertise & Skills
+- **Robotics & Math:** Deep understanding of **Forward & Inverse Kinematics**, calculating precise joint positions across 3D axes (X, Y, Z).
+- **High Performance:** Developing and compiling performance-critical modules to **WebAssembly** for seamless browser execution.
+- **Core Principles:** Strong foundation in **Object-Oriented Programming (OOP)** and building scalable, maintainable architectures.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-| Category | Tools |
+### 🚀 Professional Experience & Projects
+**Team Member @ Stactonix AI**
+- **Core Simulation Logic:** Contributed to building complex robotics simulation environments using **C++**.
+- **Kinematics Engine:** Developed the motion logic for 3D robotic arms, ensuring real-time precision.
+- **Cross-Platform Delivery:** Helped bridge the simulation to work across Desktop and Mobile via Web technologies.
+
+**Competition Experience**
+- **IEEE CASS Competition (University Track):** Represented **Team Stactonix AI**, focusing on robotics control logic and real-time C++ components.
+
+---
+
+### 🛠️ Toolbox
+| Category | Technology |
 | :--- | :--- |
-| **Languages** | `C++`, `Java`, `WebAssembly` |
-| **Robotics** | `Kinematics`, `Motion Logic`, `Simulation` |
-| **Tools** | `Visual Studio`, `Git`, `GitHub` |
+| **Languages** | `C++ (Expertise)`, `Java (Advanced Learning)`, `HTML5` |
+| **Robotics** | `Kinematics`, `Motion Control`, `3D Logic` |
+| **Web Tech** | `WebAssembly`, `API Fundamentals`, `Backend Dev` |
+| **Environment** | `Visual Studio`, `Git & GitHub` |
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=vision-glow&hide_border=true" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=vision-glow&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/mariamossama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your Name" height="30" width="40" /></a>
-</p>
+### 🌱 The Journey Forward
+- 🔍 Exploring **Spring Boot** and the internal workings of **Servers & APIs**.
+- 🏗️ Applying clean code and SOLID principles to backend systems.
+- 🧱 **Motto:** "Build strong foundations before building big systems."
 
 ---
-> "Build strong foundations before building big systems 🧱"
+
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/mariamossama/) | [Email](mailto:YOUR_EMAIL)
+
+---
+<p align="center"> 🤍 <i>This profile represents my evolution from robotics simulation to scalable backend development.</i></p>
