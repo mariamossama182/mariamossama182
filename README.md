@@ -1,6 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mariam%20&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img 
+    src="https://capsule-render.vercel.app/api
+    ?type=rect
+    &color=0:0f2027,50:203a43,100:2c5364
+    &height=220
+    &section=header
+    &text=Mariam%20|%20Web%20Developer
+    &fontSize=55
+    &fontColor=ffffff
+    &animation=fadeIn
+    &fontAlignY=40
+    &desc=Building%20Interactive%20Web%20Experiences
+    &descAlignY=65
+    &descSize=18" 
+  />
 </p>
+
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Mariam
 
