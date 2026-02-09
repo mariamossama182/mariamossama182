@@ -8,54 +8,57 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
-
-### 🛠️ Technical Prowess (CSS-Style Layout)
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Robotics & Physics</h4>
-      <ul>
-        <li><b>Forward/Inverse Kinematics:</b> Precise 3D motion logic (X, Y, Z).</li>
-        <li><b>Simulation:</b> Core logic developer at <b>Stactonix AI</b>.</li>
-        <li><b>WebAssembly:</b> High-performance C++ browser modules.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Backend & Clean Code</h4>
-      <ul>
-        <li><b>Java:</b> Building scalable backend architectures.</li>
-        <li><b>Design:</b> Deep diving into <b>OOP</b> & SOLID principles.</li>
-        <li><b>Architecture:</b> Performance-critical systems enthusiast.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 💻 Software Developer | Robotics Simulation & Web Integration
+I specialize in high-performance computing and motion logic, currently bridging the gap between low-level **C++** performance and modern web technologies like **WebAssembly** and **CSS** for intuitive simulations.
 
 ---
 
-### 🏆 Competition Highlights
-> [!IMPORTANT]
-> **IEEE CASS Competition:** Contributed real-time C++ components and kinematics control for robotics simulation.
+### 🧠 Expertise & Skills
+- **Robotics & Physics:** Deep understanding of **Forward & Inverse Kinematics**, calculating precise joint positions across 3D axes (X, Y, Z).
+- **High Performance:** Developing and compiling performance-critical modules to **WebAssembly** for seamless browser execution.
+- **Web Styling:** Crafting responsive and functional interfaces using **CSS** to visualize complex data and simulations.
+- **Core Principles:** Strong foundation in **Object-Oriented Programming (OOP)**.
 
 ---
 
-### 📊 Performance Metrics
+### 🚀 Professional Experience & Projects
+**Team Member @ Stactonix AI**
+- **Core Simulation Logic:** Contributed to building complex robotics simulation environments using **C++**.
+- **Kinematics Engine:** Developed the motion logic for 3D robotic arms, ensuring real-time precision.
+- **Cross-Platform Delivery:** Integrated simulations into web platforms using **CSS** for layout and **WebAssembly** for logic.
+
+**Competition Experience**
+- **IEEE CASS Competition (University Track):** Represented **Team Stactonix AI**, focusing on robotics control logic and real-time C++ components.
+
+---
+
+### 🛠️ Toolbox
+| Category | Technology |
+| :--- | :--- |
+| **Languages** | `C++`, `Java`, `CSS3`, `HTML5` |
+| **Robotics** | `Kinematics`, `Motion Control`, `3D Logic` |
+| **Web Tech** | `WebAssembly`, `Responsive Design`, `Backend Fundamentals` |
+| **Environment** | `Visual Studio`, `Git & GitHub` |
+
+---
+
+### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&bg_color=0D1117&title_color=58A6FF&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-glow&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-glow&hide_border=true" width="42%" />
 </p>
 
 ---
 
-### 💬 Contact & Socials
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 🌱 The Journey Forward
+- 🔍 Deep diving into **Spring Boot** and **Backend Architecture**.
+- 🎨 Improving **CSS Mastery** for advanced UI/UX in technical tools.
+- 🧱 **Motto:** "Build strong foundations before building big systems."
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Build%20strong%20foundations%20before%20building%20big%20systems" />
-</p>
+---
+
+### 📫 Let's Connect
+[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:YOUR_EMAIL)
