@@ -22,9 +22,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<p>
       <ul>
         <li>💻 Software Developer with hands-on experience in <b>C++</b> and <b>Java</b>.</li>
         <li>🧠 Strong foundation in <b>Object-Oriented Programming (OOP)</b>.</li>
@@ -33,12 +31,7 @@
         <li>🛠️ Primarily working with <b>Visual Studio</b> as my main IDE.</li>
         <li>🚀 Currently learning <b>Java Backend Development</b> step by step.</li>
       </ul>
-    </td>
-    <td width="40%" valign="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariamossama182&theme=github_dark" />
-    </td>
-  </tr>
-</table>
+   </p>
 
 ---
 
