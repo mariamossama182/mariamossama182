@@ -2,50 +2,73 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mariam%20&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Mariam
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Mariam
 
-<p align="left">
+<p align="center">  
+<b>Software Developer | C++ & WebAssembly for Robotics Simulation</b> <br>
+<b>Java Backend Development | CSS & Web Integration</b>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Technical Prowess (CSS-Style Layout)
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> About Me
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Robotics & Physics</h4>
+    <td width="60%" valign="top">
       <ul>
-        <li><b>Forward/Inverse Kinematics:</b> Precise 3D motion logic (X, Y, Z).</li>
-        <li><b>Simulation:</b> Core logic developer at <b>Stactonix AI</b>.</li>
-        <li><b>WebAssembly:</b> High-performance C++ browser modules.</li>
+        <li>💻 Software Developer with experience in <b>C++</b>, <b>Java</b>, and <b>CSS</b>.</li>
+        <li>🧠 Strong foundation in <b>Object-Oriented Programming (OOP)</b>.</li>
+        <li>🤖 Specialized in <b>Robotics Simulation</b> and motion logic.</li>
+        <li>🌐 Developing performance-critical modules with <b>WebAssembly</b>.</li>
+        <li>🛠️ Primarily using <b>Visual Studio</b> as my main IDE.</li>
+        <li>🚀 Currently expanding skills in <b>Backend Development (Java)</b>.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h4>💻 Backend & Clean Code</h4>
-      <ul>
-        <li><b>Java:</b> Building scalable backend architectures.</li>
-        <li><b>Design:</b> Deep diving into <b>OOP</b> & SOLID principles.</li>
-        <li><b>Architecture:</b> Performance-critical systems enthusiast.</li>
-      </ul>
+    <td width="40%" valign="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&bg_color=0D1117&title_color=58A6FF&hide_border=true" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏆 Competition Highlights
+### ⚙️ Project Experience (Team Stactonix AI)
+
+* **Core Robotics Simulation:** Contributed to the simulation logic using **C++**.
+* **Kinematics Engine:** Implemented **Forward & Inverse Kinematics** for 3D robotic arms.
+* **Precision Motion:** Calculated precise joint positions and motion logic across **X, Y, Z axes**.
+* **Web Integration:** Compiled performance-critical modules to **WebAssembly** for browser execution.
+* **Cross-Platform:** Contributed to a simulation environment for desktop and mobile using **CSS** for responsive UI.
+
+---
+
+### 🏆 Competition Experience
+
 > [!IMPORTANT]
-> **IEEE CASS Competition:** Contributed real-time C++ components and kinematics control for robotics simulation.
+> **IEEE CASS Competition:** Participated in the university track with **Team Stactonix AI**. Worked on robotics simulation control logic and C++ based kinematics components.
+
+---
+
+### 📚 What I’m Currently Learning
+
+- 🌐 **Web Development:** Fundamentals of HTML5 and advanced **CSS** techniques.
+- ⚙️ **Backend:** How servers, APIs, and databases work together.
+- 🏗️ **Clean Code:** Applying OOP principles and SOLID to real-world backend projects.
+- 📈 **Scalability:** Writing maintainable and scalable programs.
 
 ---
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&bg_color=0D1117&title_color=58A6FF&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -59,3 +82,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Build%20strong%20foundations%20before%20building%20big%20systems" />
 </p>
+
+---
+<p align="center">🤍 <i>This profile represents my learning journey in backend development, web development, and robotics simulation.</i></p>
