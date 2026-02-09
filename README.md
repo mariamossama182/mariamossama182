@@ -32,9 +32,9 @@
         <li>🚀 Currently expanding skills in <b>Backend Development (Java)</b>.</li>
       </ul>
     </td>
-    <td width="40%" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-glow&hide_border=true" />
-    </td>
+  <td width="40%" valign="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARIAM_USER&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</td>
   </tr>
 </table>
 
