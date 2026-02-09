@@ -6,7 +6,7 @@
 
 <p align="center">  
 <b>Software Developer | C++ & WebAssembly for Robotics Simulation</b> <br>
-<b>Java Backend Development | CSS & Web Integration</b>
+<b>Java Backend Development | Web & UI Integration</b>
 </p>
 
 <p align="center">
@@ -20,56 +20,60 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/MartinS03/MartinS03/main/assets/developer.gif" width="45" /> About Me:
+### <img src="https://raw.githubusercontent.com/MartinS03/MartinS03/main/assets/developer.gif" width="45" /> About Me
 
 <table>
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>💻 Software Developer with experience in <b>C++</b>, <b>Java</b>, and <b>CSS</b>.</li>
+        <li>💻 Software Developer with hands-on experience in <b>C++</b> and <b>Java</b>.</li>
         <li>🧠 Strong foundation in <b>Object-Oriented Programming (OOP)</b>.</li>
-        <li>🤖 Specialized in <b>Robotics Simulation</b> and motion logic.</li>
-        <li>🌐 Developing performance-critical modules with <b>WebAssembly</b>.</li>
-        <li>🛠️ Primarily using <b>Visual Studio</b> as my main IDE.</li>
-        <li>🚀 Currently expanding skills in <b>Backend Development (Java)</b>.</li>
+        <li>🤖 Focused on <b>Robotics Simulation</b> and motion logic.</li>
+        <li>🌐 Building performance-critical modules using <b>WebAssembly</b>.</li>
+        <li>🛠️ Primarily working with <b>Visual Studio</b> as my main IDE.</li>
+        <li>🚀 Currently learning <b>Java Backend Development</b> step by step.</li>
       </ul>
     </td>
     <td width="40%" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?mariamossama182&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama182&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚙️ Project Experience (Team Stactonix AI)
+### ⚙️ Project Experience — Team Stactonix AI
 
-* **Core Robotics Simulation:** Contributed to the simulation logic using **C++**.
-* **Kinematics Engine:** Implemented **Forward & Inverse Kinematics** for 3D robotic arms.
-* **Precision Motion:** Calculated precise joint positions and motion logic across **X, Y, Z axes**.
-* **Web Integration:** Compiled performance-critical modules to **WebAssembly** for browser execution.
-* **Cross-Platform:** Contributed to a simulation environment for desktop and mobile using **CSS** for responsive UI.
+* **Core Robotics Simulation:** Developed and enhanced simulation logic using **C++**.
+* **Kinematics Engine:** Implemented **Forward & Inverse Kinematics** for robotic arm movement.
+* **Precision Motion Logic:** Calculated accurate joint positions across **X, Y, and Z axes**.
+* **Web Integration:** Compiled performance-critical modules to **WebAssembly** for browser-based execution.
+* **Responsive UI Support:** Contributed to adaptive layouts using **HTML & CSS** for cross-device compatibility.
 
 ---
 
 ### 🏆 Competition Experience
 
-> [!IMPORTANT]
-> **IEEE CASS Competition:** Participated in the university track with **Team Stactonix AI**. Worked on robotics simulation control logic and C++ based kinematics components.
+> 🏆 **IEEE CASS Student Design Competition**  
+> Participated in the university track with **Team Stactonix AI**, contributing to robotics simulation control logic and C++-based kinematics components.
 
 ---
 
 ### 📚 What I’m Currently Learning
 
-- 🌐 **Web Development:** Completed **HTML5** foundations; currently mastering advanced **CSS3** and diving into **JavaScript** for dynamic behavior.
-- ⚙️ **Java Backend:** Continuing the journey in server-side logic, APIs, and applying **OOP** principles in real-world programs.
-- 🏗️ **Clean Code:** Focusing on writing maintainable, scalable code and mastering **Visual Studio** workflows.
+- 🌐 **Web Development:** Solid foundation in **HTML5**, advancing in **CSS3**, and exploring **JavaScript** to support interactive behavior and WebAssembly integrations.
+- ⚙️ **Java Backend Development:** Learning server-side logic, APIs, and applying **OOP** concepts in practical projects.
+- 🏗️ **Clean Code Principles:** Writing maintainable, readable, and scalable code.
+- 🛠️ **Developer Tools:** Improving productivity with advanced **Visual Studio** workflows.
   
 ---
 
 ### 💬 Contact & Socials
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/mariamossama/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mariamossama/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -77,4 +81,5 @@
 </p>
 
 ---
-<p align="center">🤍 <i>This profile represents my learning journey in backend development, web development, and robotics simulation.</i></p>
+
+<p align="center">🤍 <i>This profile reflects my learning journey in backend development, web technologies, and robotics simulation.</i></p>
