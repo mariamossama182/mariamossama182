@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://raw.githubusercontent.com/MartinS03/MartinS03/main/assets/developer.gif" width="45" /> About Me:
 
 <table>
   <tr>
@@ -32,9 +32,9 @@
         <li>🚀 Currently expanding skills in <b>Backend Development (Java)</b>.</li>
       </ul>
     </td>
-  <td width="40%" valign="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mariamossama182=&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-</td>
+    <td width="40%" valign="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama182&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+    </td>
   </tr>
 </table>
 
