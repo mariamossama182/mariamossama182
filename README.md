@@ -1,4 +1,8 @@
-# Hi there, I'm Mariam 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mariam%20&fontSize=90&animation=fadeIn&fontAlignY=38" />
+</p>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Mariam
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -6,56 +10,52 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### 💻 Software Developer | Robotics Simulation & Backend Learner
-I specialize in high-performance computing using **C++** and **WebAssembly**, with a focus on robotics motion logic. Currently bridging the gap between low-level performance and **Java Backend Systems**.
+---
+
+### 🛠️ Technical Prowess (CSS-Style Layout)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Robotics & Physics</h4>
+      <ul>
+        <li><b>Forward/Inverse Kinematics:</b> Precise 3D motion logic (X, Y, Z).</li>
+        <li><b>Simulation:</b> Core logic developer at <b>Stactonix AI</b>.</li>
+        <li><b>WebAssembly:</b> High-performance C++ browser modules.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Backend & Clean Code</h4>
+      <ul>
+        <li><b>Java:</b> Building scalable backend architectures.</li>
+        <li><b>Design:</b> Deep diving into <b>OOP</b> & SOLID principles.</li>
+        <li><b>Architecture:</b> Performance-critical systems enthusiast.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧠 Expertise & Skills
-- **Robotics & Math:** Deep understanding of **Forward & Inverse Kinematics**, calculating precise joint positions across 3D axes (X, Y, Z).
-- **High Performance:** Developing and compiling performance-critical modules to **WebAssembly** for seamless browser execution.
-- **Core Principles:** Strong foundation in **Object-Oriented Programming (OOP)** and building scalable, maintainable architectures.
+### 🏆 Competition Highlights
+> [!IMPORTANT]
+> **IEEE CASS Competition:** Contributed real-time C++ components and kinematics control for robotics simulation.
 
 ---
 
-### 🚀 Professional Experience & Projects
-**Team Member @ Stactonix AI**
-- **Core Simulation Logic:** Contributed to building complex robotics simulation environments using **C++**.
-- **Kinematics Engine:** Developed the motion logic for 3D robotic arms, ensuring real-time precision.
-- **Cross-Platform Delivery:** Helped bridge the simulation to work across Desktop and Mobile via Web technologies.
-
-**Competition Experience**
-- **IEEE CASS Competition (University Track):** Represented **Team Stactonix AI**, focusing on robotics control logic and real-time C++ components.
-
----
-
-### 🛠️ Toolbox
-| Category | Technology |
-| :--- | :--- |
-| **Languages** | `C++ (Expertise)`, `Java (Advanced Learning)`, `HTML5` |
-| **Robotics** | `Kinematics`, `Motion Control`, `3D Logic` |
-| **Web Tech** | `WebAssembly`, `API Fundamentals`, `Backend Dev` |
-| **Environment** | `Visual Studio`, `Git & GitHub` |
-
----
-
-### 📊 GitHub Insights
+### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariamossama182&show_icons=true&theme=radical&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama182&layout=compact&theme=radical&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&bg_color=0D1117&title_color=58A6FF&hide_border=true" width="42%" />
 </p>
 
 ---
 
-### 🌱 The Journey Forward
-- 🔍 Exploring **Spring Boot** and the internal workings of **Servers & APIs**.
-- 🏗️ Applying clean code and SOLID principles to backend systems.
-- 🧱 **Motto:** "Build strong foundations before building big systems."
+### 💬 Contact & Socials
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
----
-
-### 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/mariamossama/) | [Email](mailto:YOUR_EMAIL)
-
----
-<p align="center"> 🤍 <i>This profile represents my evolution from robotics simulation to scalable backend development.</i></p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Build%20strong%20foundations%20before%20building%20big%20systems" />
+</p>
