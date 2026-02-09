@@ -33,7 +33,7 @@
       </ul>
     </td>
     <td width="40%" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama182&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?mariamossama182&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
