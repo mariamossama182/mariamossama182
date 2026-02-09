@@ -20,7 +20,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/MartinS03/MartinS03/main/assets/developer.gif" width="45" /> About Me
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 <table>
   <tr>
@@ -35,7 +35,7 @@
       </ul>
     </td>
     <td width="40%" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama182&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariamossama182&theme=github_dark" />
     </td>
   </tr>
 </table>
