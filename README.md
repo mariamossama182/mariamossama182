@@ -1,19 +1,16 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api
-    ?type=rounded
-    &color=gradient
-    &height=230
-    &section=header
-    &text=Mariam.dev
-    &fontSize=70
-    &fontColor=ffffff
-    &animation=twinkling
-    &fontAlignY=38
-    &desc=Web%20Development%20|%20UI%20|%20Logic
-    &descAlignY=62
-    &descSize=20" 
-  />
+  <img src="https://capsule-render.vercel.app/api
+  ?type=waving
+  &color=gradient
+  &height=200
+  &section=header
+  &text=Mariam
+  &fontSize=80
+  &animation=fadeIn
+  &fontAlignY=38
+  &desc=Web%20Development%20|%20Robotics%20Simulation
+  &descAlignY=65
+  &descSize=22" />
 </p>
 
 
