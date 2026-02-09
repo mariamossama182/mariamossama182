@@ -41,8 +41,8 @@ I specialize in high-performance computing using **C++** and **WebAssembly**, wi
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamossama182&show_icons=true&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama182&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 
 ---
