@@ -1,28 +1,8 @@
 <p align="center">
-<pre>
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (success=try() ) )|     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-</pre>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=MARIAM%20OSSAMA&fontSize=80&animation=fadeIn&fontAlignY=40&desc=LEVELING%20UP%20IN%20TECH%20|%20WEB%20DESIGNER&descAlignY=65&descSize=20" />
 </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Mariam! 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> PLAYER 1: MARIAM
 
 <p align="center">
   <b>Software Developer & Web Designer</b> | <b>Robotics Simulation Enthusiast</b>
@@ -32,21 +12,21 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,sql,js,react,html,css,visualstudio,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,mysql,js,react,html,css&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-* 💻 **Web Designer & Developer:** Focused on crafting sleek UI/UX and building with **React.js**.
-* 🤖 **Robotics:** Experienced in **C++** kinematics engines and motion logic.
-* 🧠 **Tech Stack:** Proficient in **Java, Python, PHP,** and **SQL** for data management.
-* 🏆 **Recent Win:** 5th Place at **Hult Prize** (Delta University) with **Stactonix AI**.
+### 🕹️ Mission Log (About Me)
+* 💻 **Web Architecture:** Focused on crafting sleek UI/UX and building with **React.js**.
+* 🤖 **Robotics Simulation:** Specialized in **C++** kinematics engines and motion logic.
+* 🧠 **Tech Arsenal:** Proficient in **Java, Python, PHP,** and **SQL** for robust data management.
+* 🏆 **Achievements:** Secured **5th Place** at **Hult Prize** (Delta University) with project **Stactonix AI**.
 
 ---
 
-### 🎮 Let's Play! (Interactive Section)
+### 🎮 Mini-Games (Interaction)
 
 <details>
 <summary><b>♟️ Play Chess on my Profile!</b></summary>
@@ -64,15 +44,15 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Performance Metrics (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariamossama&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamossama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 ---
 
-### 💬 Connect with me
+### 📡 System Link (Contact)
 <p align="center">
   <a href="https://www.linkedin.com/in/mariamossama/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -80,5 +60,5 @@
 </p>
 
 <p align="right">
-  <i>Last refresh: Wed, May 6, 2026</i>
+  <i>System Status: Active | Last Update: May 2026</i>
 </p>
