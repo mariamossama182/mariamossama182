@@ -1,64 +1,78 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,10,30&height=250&section=header&text=MARIAM%20OSSAMA&fontSize=75&animation=twinkling&fontAlignY=40&desc=%20LEVEL%202%20DEVELOPER%20%E2%96%B8%20WEB%20DESIGNER%20%E2%96%B8%20ROBOTICS&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=MARIAM%20OSSAMA&fontSize=80&animation=twinkling&fontColor=58a6ff&fontAlignY=40&desc=%E2%96%B8%20SOFTWARE%20DEVELOPER%20%E2%96%B8%20WEB%20DESIGNER&descAlignY=65&descSize=20" />
 </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Mariam! 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Mariam
 
-<p align="center">
-  <b>Software Developer & Web Designer</b> | <b>Robotics Simulation Enthusiast</b>
-  <br>
-  <i>"Building strong foundations before building big systems"</i>
+<p align="center">  
+<b>Software Developer & Web Designer | C++ & Java for Robotics Simulation</b> <br>
+<b>Building Interactive Interfaces & Exploring AI</b>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,mysql,js,react,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,mysql,js,react,html,css" alt="My Skills" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-* 💻 **Web Designer & Developer:** Focused on crafting sleek UI/UX and building with **React.js**.
-* 🤖 **Robotics:** Experienced in **C++** kinematics engines and motion logic.
-* 🧠 **Tech Stack:** Proficient in **Java, Python, PHP,** and **SQL** for data management.
-* 🏆 **Recent Win:** 5th Place at **Hult Prize** (Delta University) with **Stactonix AI**.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+
+<p>
+      <ul>
+        <li>💻 <b>Software Developer & Web Designer</b> with hands-on experience in <b>C++, Java, Python,</b> and <b>PHP</b>.</li>
+        <li>🤖 Focused on <b>Robotics Simulation</b> and motion logic.</li>
+        <li>🎨 Passionate about designing responsive and visually engaging web layouts.</li>
+        <li>🗄️ Working with <b>SQL</b> for efficient data management and backend logic.</li>
+        <li>🧠 Strong foundation in <b>Object-Oriented Programming (OOP)</b> and <b>Data Structures</b>.</li>
+        <li>🚀 Currently expanding my knowledge in <b>React.js</b> and <b>AI Basics</b> to build smarter, interactive applications.</li>
+      </ul>
+   </p>
 
 ---
 
-### 🎮 Let's Play! (Interactive Section)
+### ⚙️ Project Experience — Team Stactonix AI
 
-<details>
-<summary><b>♟️ Play Chess on my Profile!</b></summary>
-<p align="center">
-  <img src="https://github-readme-chess.vercel.app/chess/board?moves=" alt="Chess Board" />
-</p>
-</details>
-
-<details>
-<summary><b>🔴 Play Connect 4</b></summary>
-<p align="center">
-  <img src="https://github-readme-connect4.vercel.app/connect4/grid" alt="Connect4" />
-</p>
-</details>
+* **Core Robotics Simulation:** Developed and enhanced simulation logic using **C++**.
+* **Kinematics Engine:** Implemented **Forward & Inverse Kinematics** for robotic arm movement.
+* **Precision Motion Logic:** Calculated accurate joint positions across **X, Y, and Z axes**.
+* **Database & Logic:** Managed data flow and backend integration using **SQL** and **PHP**.
+* **Responsive UI Support:** Contributed to adaptive layouts using **HTML & CSS** for cross-device compatibility.
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariamossama&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="48%" />
-</p>
+### 🏆 Competition Experience
+
+> 🏆 **Hult Prize - Delta University for Science and Technology**  
+> Achieved **5th Place** with project **Stactonix AI**, showcasing innovative solutions blending technology and real-world impact.
+
+> 🏆 **IEEE CASS Student Design Competition**  
+> Participated in the university track with **Team Stactonix AI**, contributing to robotics simulation control logic and C++-based kinematics components.
 
 ---
 
-### 💬 Connect with me
+### 📚 What I’m Currently Learning
+
+- ⚛️ **React.js:** Mastering component-based architecture and state management to build dynamic, interactive front-end applications.
+- 🤖 **AI Basics:** Exploring artificial intelligence concepts, prompt engineering, and integrating AI tools into modern development workflows.
+- 🌐 **Web Design & Development:** Solidifying my foundation in **HTML5**, **CSS3**, and **JavaScript** to create seamless user experiences.
+- 🏗️ **Clean Code Principles:** Writing maintainable, readable, and scalable code.
+  
+---
+
+### 💬 Contact & Socials
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mariamossama/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="right">
-  <i>Last refresh: Wednesday, May 6, 2026</i>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Build%20strong%20foundations%20before%20building%20big%20systems" />
 </p>
+
+---
+
+<p align="center">🤍 <i>This profile reflects my learning journey in web design, frontend technologies, and robotics simulation.</i></p>
