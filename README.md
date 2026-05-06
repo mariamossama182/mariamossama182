@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=MARIAM%20OSSAMA&fontSize=80&animation=fadeIn&fontAlignY=40&desc=LEVELING%20UP%20IN%20TECH%20|%20WEB%20DESIGNER&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,10,30&height=250&section=header&text=MARIAM%20OSSAMA&fontSize=75&animation=twinkling&fontAlignY=40&desc=%20LEVEL%202%20DEVELOPER%20%E2%96%B8%20WEB%20DESIGNER%20%E2%96%B8%20ROBOTICS&descAlignY=65&descSize=20" />
 </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> PLAYER 1: MARIAM
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Mariam! 
 
 <p align="center">
   <b>Software Developer & Web Designer</b> | <b>Robotics Simulation Enthusiast</b>
@@ -18,15 +18,15 @@
 
 ---
 
-### 🕹️ Mission Log (About Me)
-* 💻 **Web Architecture:** Focused on crafting sleek UI/UX and building with **React.js**.
-* 🤖 **Robotics Simulation:** Specialized in **C++** kinematics engines and motion logic.
-* 🧠 **Tech Arsenal:** Proficient in **Java, Python, PHP,** and **SQL** for robust data management.
-* 🏆 **Achievements:** Secured **5th Place** at **Hult Prize** (Delta University) with project **Stactonix AI**.
+### 🚀 About Me
+* 💻 **Web Designer & Developer:** Focused on crafting sleek UI/UX and building with **React.js**.
+* 🤖 **Robotics:** Experienced in **C++** kinematics engines and motion logic.
+* 🧠 **Tech Stack:** Proficient in **Java, Python, PHP,** and **SQL** for data management.
+* 🏆 **Recent Win:** 5th Place at **Hult Prize** (Delta University) with **Stactonix AI**.
 
 ---
 
-### 🎮 Mini-Games (Interaction)
+### 🎮 Let's Play! (Interactive Section)
 
 <details>
 <summary><b>♟️ Play Chess on my Profile!</b></summary>
@@ -44,15 +44,15 @@
 
 ---
 
-### 📊 Performance Metrics (GitHub Stats)
+### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariamossama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamossama&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 ---
 
-### 📡 System Link (Contact)
+### 💬 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/mariamossama/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -60,5 +60,5 @@
 </p>
 
 <p align="right">
-  <i>System Status: Active | Last Update: May 2026</i>
+  <i>Last refresh: Wednesday, May 6, 2026</i>
 </p>
