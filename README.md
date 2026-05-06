@@ -1,78 +1,84 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mariam&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Web%20Design%20|%20Robotics%20Simulation&descAlignY=65&descSize=22" />
+<pre>
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (success=try() ) )|     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+</pre>
 </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Mariam
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Mariam! 
 
-<p align="center">  
-<b>Software Developer & Web Designer | C++ for Robotics Simulation</b> <br>
-<b>Building Interactive Interfaces & Exploring AI</b>
+<p align="center">
+  <b>Software Developer & Web Designer</b> | <b>Robotics Simulation Enthusiast</b>
+  <br>
+  <i>"Building strong foundations before building big systems"</i>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,php,js,react,html,css,wasm" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,sql,js,react,html,css,visualstudio,figma&theme=dark" />
   </a>
 </p>
 
 ---
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-
-<p>
-      <ul>
-        <li>💻 <b>Software Developer & Web Designer</b> with hands-on experience in <b>C++, Python,</b> and <b>PHP</b>.</li>
-        <li>🤖 Focused on <b>Robotics Simulation</b> and motion logic.</li>
-        <li>🎨 Passionate about designing responsive and visually engaging web layouts.</li>
-        <li>🌐 Building performance-critical modules using <b>WebAssembly</b>.</li>
-        <li>🧠 Strong foundation in <b>Object-Oriented Programming (OOP)</b> and <b>Data Structures</b>.</li>
-        <li>🚀 Currently expanding my knowledge in <b>React.js</b> and <b>AI Basics</b> to build smarter, interactive applications.</li>
-      </ul>
-   </p>
+### 🚀 About Me
+* 💻 **Web Designer & Developer:** Focused on crafting sleek UI/UX and building with **React.js**.
+* 🤖 **Robotics:** Experienced in **C++** kinematics engines and motion logic.
+* 🧠 **Tech Stack:** Proficient in **Java, Python, PHP,** and **SQL** for data management.
+* 🏆 **Recent Win:** 5th Place at **Hult Prize** (Delta University) with **Stactonix AI**.
 
 ---
 
-### ⚙️ Project Experience — Team Stactonix AI
+### 🎮 Let's Play! (Interactive Section)
 
-* **Core Robotics Simulation:** Developed and enhanced simulation logic using **C++**.
-* **Kinematics Engine:** Implemented **Forward & Inverse Kinematics** for robotic arm movement.
-* **Precision Motion Logic:** Calculated accurate joint positions across **X, Y, and Z axes**.
-* **Web Integration:** Compiled performance-critical modules to **WebAssembly** for browser-based execution.
-* **Responsive UI Support:** Contributed to adaptive layouts using **HTML & CSS** for cross-device compatibility.
+<details>
+<summary><b>♟️ Play Chess on my Profile!</b></summary>
+<p align="center">
+  <img src="https://github-readme-chess.vercel.app/chess/board?moves=" alt="Chess Board" />
+</p>
+</details>
 
----
-
-### 🏆 Competition Experience
-
-> 🏆 **Hult Prize - Delta University for Science and Technology**  
-> Achieved **5th Place** with project **Stactonix AI**, showcasing innovative solutions blending technology and real-world impact.
-
-> 🏆 **IEEE CASS Student Design Competition**  
-> Participated in the university track with **Team Stactonix AI**, contributing to robotics simulation control logic and C++-based kinematics components.
+<details>
+<summary><b>🔴 Play Connect 4</b></summary>
+<p align="center">
+  <img src="https://github-readme-connect4.vercel.app/connect4/grid" alt="Connect4" />
+</p>
+</details>
 
 ---
 
-### 📚 What I’m Currently Learning
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamossama&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamossama&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="48%" />
+</p>
 
-- ⚛️ **React.js:** Mastering component-based architecture and state management to build dynamic, interactive front-end applications.
-- 🤖 **AI Basics:** Exploring artificial intelligence concepts, prompt engineering, and integrating AI tools into modern development workflows.
-- 🌐 **Web Design & Development:** Solidifying my foundation in **HTML5**, **CSS3**, and **JavaScript** to create seamless user experiences.
-- 🏗️ **Clean Code Principles:** Writing maintainable, readable, and scalable code.
-  
 ---
 
-### 💬 Contact & Socials
-
+### 💬 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/mariamossama/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Build%20strong%20foundations%20before%20building%20big%20systems" />
+<p align="right">
+  <i>Last refresh: Wed, May 6, 2026</i>
 </p>
-
----
-
-<p align="center">🤍 <i>This profile reflects my learning journey in web design, frontend technologies, and robotics simulation.</i></p>
