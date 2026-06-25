@@ -40,14 +40,12 @@
 
 ### 🏆 Competition Experience
 
-🏆 **Hult Prize – Delta University for Science and Technology**
+> 🏆 **Hult Prize - Delta University for Science and Technology**  
+> Achieved **5th Place** with project **Stactonix AI**, showcasing innovative solutions blending technology and real-world impact.
 
-* Achieved **5th Place** with project **Stactonix AI**, presenting innovative technology solutions with real-world impact.
-
-🏆 **IEEE CASS Student Design Competition**
-
-* Participated with **Team Stactonix AI**, contributing to robotics simulation logic and kinematics implementation.
-
+> 🏆 **IEEE CASS Student Design Competition**  
+> Participated in the university track with **Team Stactonix AI**, contributing to robotics simulation control logic and C++-based kinematics components.
+> 
 ---
 
 ### 📚 What I'm Currently Learning
