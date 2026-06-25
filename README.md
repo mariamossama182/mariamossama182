@@ -1,64 +1,73 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=MARIAM%20OSSAMA&fontSize=80&animation=twinkling&fontColor=58a6ff&fontAlignY=40&desc=%E2%96%B8%20SOFTWARE%20DEVELOPER%20%E2%96%B8%20WEB%20DESIGNER&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=MARIAM%20OSSAMA&fontSize=80&animation=twinkling&fontColor=58a6ff&fontAlignY=40&desc=%E2%96%B8%20ASPIRING%20FULL%20STACK%20DEVELOPER%20%E2%96%B8%20SOFTWARE%20ENGINEER&descAlignY=65&descSize=20" />
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Mariam
 
-<p align="center">  
-<b>Software Developer & Web Designer | C++ for Robotics Simulation</b> <br>
-<b>Building Interactive Interfaces & Exploring AI</b>
+<p align="center">
+<b>Aspiring Full Stack Developer | Software Engineer</b><br>
+<b>Building Modern Web Applications & Exploring AI</b>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,mysql,js,react,html,css" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,php,mysql,js,react,html,css,git,github" alt="My Skills" />
   </a>
 </p>
 
 ---
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### 🚀 About Me
 
-<p>
-      <ul>
-        <li>💻 <b>Software Developer & Web Designer</b> with hands-on experience in <b>C++, Java, Python,</b> and <b>PHP</b>.</li>
-        <li>🤖 Focused on <b>Robotics Simulation</b> and motion logic.</li>
-        <li>🎨 Passionate about designing responsive and visually engaging web layouts.</li>
-        <li>🗄️ Working with <b>SQL</b> for efficient data management and backend logic.</li>
-        <li>🧠 Strong foundation in <b>Object-Oriented Programming (OOP)</b> and <b>Data Structures</b>.</li>
-        <li>🚀 Currently expanding my knowledge in <b>React.js</b> and <b>AI Basics</b> to build smarter, interactive applications.</li>
-      </ul>
-   </p>
+* 💻 Software Developer with experience in **C++, Java, Python, PHP, and SQL**.
+* 🌐 Aspiring **Full Stack Developer** passionate about building complete web applications.
+* 🤖 Worked on **Robotics Simulation** projects involving motion logic and kinematics.
+* 🧠 Strong foundation in **Object-Oriented Programming (OOP)**, **Data Structures**, and **Problem Solving**.
+* 🚀 Currently expanding my knowledge in modern web technologies, software engineering, and AI fundamentals.
+* 📚 Always learning, building, and exploring new technologies.
 
 ---
 
 ### ⚙️ Project Experience — Team Stactonix AI
 
-* **Core Robotics Simulation:** Developed and enhanced simulation logic using **C++**.
-* **Kinematics Engine:** Implemented **Forward & Inverse Kinematics** for robotic arm movement.
-* **Precision Motion Logic:** Calculated accurate joint positions across **X, Y, and Z axes**.
-* **Database & Logic:** Managed data flow and backend integration using **SQL** and **PHP**.
-* **Responsive UI Support:** Contributed to adaptive layouts using **HTML & CSS** for cross-device compatibility.
+* Developed and enhanced simulation logic using **C++**.
+* Implemented **Forward & Inverse Kinematics** for robotic arm movement.
+* Calculated accurate joint positions across **X, Y, and Z axes**.
+* Managed backend logic and data handling using **SQL** and **PHP**.
+* Contributed to web application development and system integration.
 
 ---
 
 ### 🏆 Competition Experience
 
-> 🏆 **Hult Prize - Delta University for Science and Technology**  
-> Achieved **5th Place** with project **Stactonix AI**, showcasing innovative solutions blending technology and real-world impact.
+🏆 **Hult Prize – Delta University for Science and Technology**
 
-> 🏆 **IEEE CASS Student Design Competition**  
-> Participated in the university track with **Team Stactonix AI**, contributing to robotics simulation control logic and C++-based kinematics components.
+* Achieved **5th Place** with project **Stactonix AI**, presenting innovative technology solutions with real-world impact.
+
+🏆 **IEEE CASS Student Design Competition**
+
+* Participated with **Team Stactonix AI**, contributing to robotics simulation logic and kinematics implementation.
 
 ---
 
-### 📚 What I’m Currently Learning
+### 📚 What I'm Currently Learning
 
-- ⚛️ **React.js:** Mastering component-based architecture and state management to build dynamic, interactive front-end applications.
-- 🤖 **AI Basics:** Exploring artificial intelligence concepts, prompt engineering, and integrating AI tools into modern development workflows.
-- 🌐 **Web Design & Development:** Solidifying my foundation in **HTML5**, **CSS3**, and **JavaScript** to create seamless user experiences.
-- 🏗️ **Clean Code Principles:** Writing maintainable, readable, and scalable code.
-  
+* 🌐 Full Stack Development
+* ⚛️ React.js
+* 🤖 AI Fundamentals
+* 🏗️ Clean Code Principles
+* 💡 Problem Solving & Algorithms
+
+---
+
+### 💡 Areas of Interest
+
+* Full Stack Development
+* Software Engineering
+* Robotics Simulation
+* Artificial Intelligence
+* Problem Solving
+
 ---
 
 ### 💬 Contact & Socials
@@ -69,10 +78,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Build%20strong%20foundations%20before%20building%20big%20systems" />
-</p>
-
 ---
 
-<p align="center">🤍 <i>This profile reflects my learning journey in web design, frontend technologies, and robotics simulation.</i></p>
+<p align="center">
+🤍 <i>Passionate about building impactful software, solving challenging problems, and continuously learning new technologies.</i>
+</p>
