@@ -5,7 +5,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Mariam
 
 <p align="center">
-<b>Aspiring Full Stack Developer | Software Engineer</b><br>
+<b>Software Engineer | Web Developer</b><br>
 <b>Building Modern Web Applications & Exploring AI</b>
 </p>
 
@@ -20,22 +20,21 @@
 
 ### 🚀 About Me
 
-* 💻 Software Developer with experience in **C++, Java, Python, PHP, and SQL**.
+* 💻 Software Developer with experience in **C++, C#, Java, Python, PHP, and SQL**.
 * 🌐 Aspiring **Full Stack Developer** passionate about building complete web applications.
 * 🤖 Worked on **Robotics Simulation** projects involving motion logic and kinematics.
 * 🧠 Strong foundation in **Object-Oriented Programming (OOP)**, **Data Structures**, and **Problem Solving**.
-* 🚀 Currently expanding my knowledge in modern web technologies, software engineering, and AI fundamentals.
+* 🚀 Currently expanding my skills in core software development technologies, backend architecture, and databases
 * 📚 Always learning, building, and exploring new technologies.
 
 ---
 
 ### ⚙️ Project Experience — Team Stactonix AI
 
-* Developed and enhanced simulation logic using **C++**.
-* Implemented **Forward & Inverse Kinematics** for robotic arm movement.
-* Calculated accurate joint positions across **X, Y, and Z axes**.
-* Managed backend logic and data handling using **SQL** and **PHP**.
-* Contributed to web application development and system integration.
+* **Core Robotics Simulation:** Contributed to the core simulation logic using **C++** to handle physical constraints.
+* **Kinematics Engine:** Implemented **Forward & Inverse Kinematics** for 3D robotic arm movements.
+* **Precision Motion:** Calculated precise joint positions and motion logic across **X, Y, and Z axes**.
+* **Web Integration:** Compiled performance-critical C++ modules to **WebAssembly** for efficient browser execution.
 
 ---
 
@@ -49,21 +48,10 @@
 > 
 ---
 
-### 📚 What I'm Currently Learning
-
-* 🌐 Full Stack Development
-* ⚛️ React.js
-* 🤖 AI Fundamentals
-* 🏗️ Clean Code Principles
-* 💡 Problem Solving & Algorithms
-
----
-
 ### 💡 Areas of Interest
 
-* Full Stack Development
+* Backend Web Development
 * Software Engineering
-* Robotics Simulation
 * Artificial Intelligence
 * Problem Solving
 
