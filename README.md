@@ -16,13 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Server" width="48" height="48" style="vertical-align: middle; margin-bottom: 6px;" />
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,php,mysql,js,react,html,css,git,github" alt="My Skills" />
-  </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Server" width="48" height="48" style="vertical-align: middle; margin-bottom: 6px;" />
-</p>
-
 ---
 
 ### 🚀 About Me
