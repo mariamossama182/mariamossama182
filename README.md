@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=MARIAM%20OSSAMA&fontSize=80&animation=twinkling&fontColor=58a6ff&fontAlignY=40&desc=%E2%96%B8%20ASPIRING%20FULL%20STACK%20DEVELOPER%20%E2%96%B8%20SOFTWARE%20ENGINEER&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=MARIAM%20OSSAMA&fontSize=80&animation=twinkling&fontColor=58a6ff&fontAlignY=40&desc=%E2%96%B8%20SOFTWARE%20ENGINEER%20%E2%96%B8%20WEB%20DEVELOPER&descAlignY=65&descSize=20" />
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Mariam
@@ -7,6 +7,13 @@
 <p align="center">
 <b>Software Engineer | Web Developer</b><br>
 <b>Building Modern Web Applications & Exploring AI</b>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,python,php,mysql,js,html,css,git,github" alt="My Skills" />
+  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Server" width="48" height="48" style="vertical-align: middle; margin-bottom: 6px;" />
 </p>
 
 <p align="center">
